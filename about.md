@@ -2,7 +2,7 @@
 layout: post
 title: About Me
 description: Lorem ipsum dolor est
-image: assets/images/desk.jpeg
+image: assets/images/desk.jpg
 tile_image: assets/images/cherry_blossoms.jpeg
 nav-menu: true
 show_tile: true
