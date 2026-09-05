@@ -12,19 +12,12 @@ Hi! I'm Alicia!
 
 I'm currently a PhD candidate in the David A. Dunlap Department of Astronomy & Astrophysics and the Canadian Institute for Theoretical Astrophysics at the University of Toronto, working with Profs. Bart Ripperda and Norman Murray in the field of relativistic plasma astrophysics.  I'm also a member of the Simons Collaboration on Extreme Electrodynamics of Compact Sources ([SCEECS](https://www.simonsceecs.com/)).  I am very passionate about science, outreach, and especially my cat.  
 
+## Education
 <span class="image left">
     <img src="{% link assets/images/brock.jpg %}" alt="Brock University logo" />
-</span>
-
-<span class="image left">
     <img src="{% link assets/images/DADDAA.jpg %}" alt="DADDAA logo" />
-</span>
-
-<span class="image left">
     <img src="{% link assets/images/CITA.jpg %}" alt="CITA logo" />
 </span>
-
-## Education
 I completed my undergraduate education at Brock University, where I received my **B.Sc. in Mathematics (Honours) with minor in Physics** and my **B.Ed. with Intermediate/Senior qualifications** together in 2019.  I was then a secondary maths teacher at **Wembley High Technology College** in London, UK for the 2019 academic year.  While I found teaching incredibly rewarding, I missed working out problems myself, so I returned to Brock in 2020 to upgrade my Physics minor, earning me a **B.Sc. in Physics (Honours)** in 2022.  I then entered the graduate program at the University of Toronto, where I am completing my thesis *Multiwavelength emission from Active Galactic Nuclei* under Profs. Bart Ripperda and Norman Murray, expecting to graduate in Summer 2027.  
 
 ## Research
