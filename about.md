@@ -1,5 +1,5 @@
 ---
-layout: generic
+layout: post
 title: About Me
 description: Lorem ipsum dolor est
 image: assets/images/cherry_blossoms.jpeg
