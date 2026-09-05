@@ -17,7 +17,7 @@ I'm currently a PhD candidate in the David A. Dunlap Department of Astronomy & A
 </span>
 
 <span class="image left">
-    <img src="{% link assets/images/DADDA.jpg %}" alt="DADDAA logo" />
+    <img src="{% link assets/images/DADDAA.jpg %}" alt="DADDAA logo" />
 </span>
 
 <span class="image left">
