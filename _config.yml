@@ -2,13 +2,13 @@
 title: Alicia Savelli
 subtitle: PhD Candidate in Astrophysics
 email: alicia.savelli@utoronto.ca
-description: Relativistic plasma astrophysics, GRMHD, radiative plasma physics, galaxy evolution
+description: Relativistic plasma astrophysics, radiative plasma physics, (G)RRMHD, PIC, galaxy evolution
 baseurl: "/website"
 url: "https://aliciasavelli.github.io"
 author: Alicia M. Savelli
 street_address: Canadian Institute for Theoretical Astrophysics, University of Toronto
 city: Toronto
-state: ON
+state: "ON"
 zip_code: 
 country: Canada
 phone: 
