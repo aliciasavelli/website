@@ -14,7 +14,13 @@ I'm currently a PhD candidate in the David A. Dunlap Department of Astronomy & A
 
 <span class="image left">
     <img src="{% link assets/images/brock.jpg %}" alt="Brock University logo" />
+</span>
+
+<span class="image left">
     <img src="{% link assets/images/DADDA.jpg %}" alt="DADDAA logo" />
+</span>
+
+<span class="image left">
     <img src="{% link assets/images/CITA.jpg %}" alt="CITA logo" />
 </span>
 
