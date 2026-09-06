@@ -41,7 +41,7 @@ Outside of science, I love to read (my favourite books are *Project Hail Mary* a
     <div class="row 50% uniform">
         <div class="4u">
             <span class="image fit">
-                <img src="{{ site.baseurl }}/assets/images/halifax.jpg" alt="" style="width: 50%;"/>
+                <img src="{{ site.baseurl }}/assets/images/halifax.JPG" alt="" style="width: 50%;"/>
             </span>
         </div>
         <div class="4u">
