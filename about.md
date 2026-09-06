@@ -29,7 +29,7 @@ I have a secondary interest in galaxy evolution, specifically in models for feed
 
 ## Outreach
 <span class="image left">
-    <img src="{{ site.baseurl }}/assets/images/AstroOnTap.jpg" alt="University logos" style="width: 50%;"/>
+    <img src="{{ site.baseurl }}/assets/images/AstroOnTap.jpg" alt="University logos" style="width: 120%;"/>
 </span>
 Although I gave up teaching, my interest in sharing my passion for physics and astronomy with anyone who will listen remains.  I believe science should be accessible to everyonel, and want to help bridge the gap between the jargony science and language that anyone at any level can understand. I want empower both the younger generation to feel like science is exciting and fun and something they can do themselves, as well as the older generation who didn't go into science but may still have an interest (just ask my dad).
 
@@ -41,19 +41,14 @@ Outside of science, I love to read (my favourite books are *Project Hail Mary* a
 
 <div class="box alt">
     <div class="row 50% uniform">
-        <div class="4u">
+        <div class="6u">
             <span class="image fit">
                 <img src="{{ site.baseurl }}/assets/images/halifax.JPG" alt="" style="width: 100%;"/>
             </span>
         </div>
-        <div class="4u">
+        <div class="6u$">
             <span class="image fit">
                 <img src="{{ site.baseurl }}/assets/images/Charlotte.jpg" alt="" style="width: 60%;"/>
-            </span>
-        </div>
-        <div class="4u$">
-            <span class="image fit">
-                <img src="{{ site.baseurl }}/assets/images/california.jpg" alt=""style="width: 90%;" />
             </span>
         </div>
     </div>
