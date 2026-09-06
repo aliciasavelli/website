@@ -28,7 +28,9 @@ My primary research interests lie in the extreme plasma processes occurring just
 I have a secondary interest in galaxy evolution, specifically in models for feedback from black holes or stars in cosmological simulations.  I have used Milky Way analogues -- galaxies similar to our own -- as a test subject to understand how the physics going into these models may have lead to different evolution pathways for the Milky Way.  
 
 ## Outreach
-<img src="{{ site.baseurl }}/assets/images/AstroOnTap.jpg" alt="Alicia presenting" style="width: 50%;"/>
+<span class="image left">
+    <img src="{{ site.baseurl }}/assets/images/AstroOnTap.jpg" alt="University logos" />
+</span>
 Although I gave up teaching, my interest in sharing my passion for physics and astronomy with anyone who will listen remains.  I believe science should be accessible to everyonel, and want to help bridge the gap between the jargony science and language that anyone at any level can understand. I want empower both the younger generation to feel like science is exciting and fun and something they can do themselves, as well as the older generation who didn't go into science but may still have an interest (just ask my dad).
 
 Most notably, I love to yap.  I have given many outreach talks on a veriety of subjects to a variety of audiences.  I have had the pleasure to give lectures in big auditoriums to the general public, run workshops for science educators, and participate in K-12 classroom visits.  I have also been involved in a number of outreach events and organizations, including [Discover the Universe](https://www.discovertheuniverse.ca/) and [AstroTours](https://www.astro.utoronto.ca/astrotours/).
@@ -41,17 +43,17 @@ Outside of science, I love to read (my favourite books are *Project Hail Mary* a
     <div class="row 50% uniform">
         <div class="4u">
             <span class="image fit">
-                <img src="{{ site.baseurl }}/assets/images/halifax.JPG" alt="" style="width: 80%;"/>
+                <img src="{{ site.baseurl }}/assets/images/halifax.JPG" alt="" style="width: 90%;"/>
             </span>
         </div>
         <div class="4u">
             <span class="image fit">
-                <img src="{{ site.baseurl }}/assets/images/Charlotte.jpg" alt="" style="width: 50%;"/>
+                <img src="{{ site.baseurl }}/assets/images/Charlotte.jpg" alt="" style="width: 60%;"/>
             </span>
         </div>
         <div class="4u$">
             <span class="image fit">
-                <img src="{{ site.baseurl }}/assets/images/california.jpg" alt=""style="width: 80%;" />
+                <img src="{{ site.baseurl }}/assets/images/california.jpg" alt=""style="width: 90%;" />
             </span>
         </div>
     </div>
