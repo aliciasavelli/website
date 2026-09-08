@@ -15,9 +15,10 @@ show_tile: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>(G)R(R)MHD simulations of plasma in extreme astrophysical environments</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>Black holes are home to some of the most extreme environments in the Universe, and the highly relativistic plasma accreting onto black holes is the key to studying the them.  To simulate such systems, we use general relativistic magnetohydrodynamic (GRMHD) simulations, which treat the plasma as a fluid in curved spacetime.  While this approach models the global dynamics of an accreting black hole, it cannot capute the small scale microphysics responsible for some of the most interesting plasma processes, such as radiation.  This microphysical scale requires particle-in-cell (PIC) simulations, which treat the plasma as clusters of particles, but are computationally limitted to local domains neglecting the compact object and its gravity.  My research aims to introduce subgrid models to bridge the separation-of-scales gap between GRMHD and PIC by writing the macrophsyical outcomes of microphysical processes into global simulations.</p>
+        <p>Here I highlight some selected first-author projects from my plasma astrophysics research.</p>
 	</div>
 </section>
 
@@ -25,14 +26,14 @@ show_tile: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}assets/images/pic08.jpg %" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Making Reconnection Cooler</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>We add an energy and momentum sink term to the RRMHD equations coupled to an effective charge-starved resistivty prescription to model radiative losses due to inverse Compton cooling in a local-box reconnection layer.  Our sink term is able to reproduce macroscopic properties from kineitc simulations, including the fast reconnection rate, the temperature in the current sheet, and the bulk motions of the outflow.  Our results set the stage for more accurate reconnection sites in global simulations of black holes and neutron stars.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -41,14 +42,14 @@ show_tile: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{{ site.baseurl }}assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Resistive thin disk (work in progress)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>We simulate a cooled accretion disk around a black hole with effective charge-starved resistivity in the truncated state.  We wish to understand how the fast reconnection rate from charge-starved resistivity affects the flaring and flux erruptions in the disk.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -57,14 +58,14 @@ show_tile: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{{ site.baseurl }}assets/images/pic10.jpg" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>2-temperature reconnection (work in progress)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>We evolve an electron entropy equation with a resistive source term in an RRMHD simulation of a local-box reconnection layer for a physically-informed heating prescription between electrons and ions.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -77,11 +78,10 @@ show_tile: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>All publications</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+		<p>Above I have provided in-depth descriptions of selected projects I have worked on.  For a full list of my publications, click the link below.</p>
+		<ul class="actions">My publications</a></li>
 		</ul>
 	</div>
 </section>
