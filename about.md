@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-description: Lorem ipsum dolor est
+description: Brief Overview
 image: assets/images/desk.jpg
 tile_image: assets/images/cherry_blossoms.jpeg
 nav-menu: true
