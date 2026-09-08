@@ -20,8 +20,8 @@ I completed my undergraduate education at Brock University, where I received my 
 
 ## Research
 <span class="image right">
-    <img src="{{ site.baseurl }}/assets/images/eht.png" alt="EHT" style="width: 50%;"/>
-    <img src="{{ site.baseurl }}/assets/images/galaxy.png" alt="Galaxy" style="width: 50%;"/>
+    <img src="{{ site.baseurl }}/assets/images/eht.png" alt="EHT" style="width: 60%;"/>
+    <img src="{{ site.baseurl }}/assets/images/galaxy.png" alt="Galaxy" style="width: 60%;"/>
 </span>
 My primary research interests lie in the extreme plasma processes occurring just outside the event horizon of accreting black holes. I work on analytical and numerical modelling of plasma energization that powers high-energy emission, specifically using kinetic theory to inform fluid models of relativistic plasmas. Of particular interest to me is a region of very hot, diffuse plasma surrounding accreting black holes called the corona, and my PhD thesis aims to advance models of coronal emission in GRMHD simulations of such environments, improving our understanding of how these systems radiate.
 
