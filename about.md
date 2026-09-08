@@ -21,13 +21,13 @@ I completed my undergraduate education at Brock University, where I received my 
 ## Research
 <span class="image right">
     <img src="{{ site.baseurl }}/assets/images/eht.png" alt="EHT" style="width: 50%;"/>
-    <p style="font-size: 0.7em;">Credit: Event Horizon Telescope Collaboration</p>
     <img src="{{ site.baseurl }}/assets/images/galaxy.png" alt="Galaxy" style="width: 50%;"/>
-    <p style="font-size: 0.7em;">Credit: EAGLE</p>
 </span>
 My primary research interests lie in the extreme plasma processes occurring just outside the event horizon of accreting black holes. I work on analytical and numerical modelling of plasma energization that powers high-energy emission, specifically using kinetic theory to inform fluid models of relativistic plasmas. Of particular interest to me is a region of very hot, diffuse plasma surrounding accreting black holes called the corona, and my PhD thesis aims to advance models of coronal emission in GRMHD simulations of such environments, improving our understanding of how these systems radiate.
 
 I have a secondary interest in galaxy evolution, specifically in models for feedback from black holes or stars in cosmological simulations.  I have used Milky Way analogues -- galaxies similar to our own -- as a test subject to understand how the physics going into these models may have lead to different evolution pathways for the Milky Way.  
+
+<small>Top picture credit: Event Horizon Telescop Collaboration. Bottom picture credit: EAGLE.</small>
 
 ## Outreach
 <span class="image left">
