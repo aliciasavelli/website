@@ -81,7 +81,8 @@ show_tile: true
 			<h2>All publications</h2>
 		</header>
 		<p>Above I have provided in-depth descriptions of selected projects I have worked on.  For a full list of my publications, click the link below.</p>
-		<ul class="actions">My publications</a></li>
+		<ul class="actions">
+			<li><a href="https://ui.adsabs.harvard.edu/public-libraries/veCStOwMSHa-qBoVTqnBKQ" class="button next">My publications</a></li>
 		</ul>
 	</div>
 </section>
